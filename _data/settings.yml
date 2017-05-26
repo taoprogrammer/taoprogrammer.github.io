@@ -1,0 +1,67 @@
+#-------------------------------
+# General Site Settings
+
+title: Tao Programmer
+description: My Tao of Programming
+email: taoprogrammer@outlook.com
+
+menu:
+- {name: 'Projects', url: ''}
+- {name: 'Blog', url: 'blog.html'}
+- {name: 'About', url: 'about.html'}
+#- {name: 'Contact', url: 'contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Tao Programmer - My Tao of Programming '
+#  rel-author: 'https://plus.google.com/u/0/#'
+#  rel-publisher: 'https://plus.google.com/u/0/#'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+about: >
+  # About Me
+
+  This is a personal blog about me, (Jeff) Hong Xiao.
+  Here you can find my past and current [projects](/),
+  and the blog [posts](/blog.html) I wrote now and then.
+
+  You may contact me [through my email](mailto:taoprogrammer@outlook.com)
+  and [github page](http://taoprogrammer.github.io).
+
+contact: >
+  # Contact
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: 'Dashboard', folder: 'proj-1', file: 'projects/proj-1.html'}
+#- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
+
+#-------------------------------
+# Contact Section
+
+social:
+#- {icon: 'twitter', link: '#'}
+#- {icon: 'instagram', link: '#'}
+- {icon: 'github', link: 'http://taoprogrammer.github.io'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jeffhongxiao/'}
+- {icon: 'envelope', link: 'mailto:taoprogrammer@outlook.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
