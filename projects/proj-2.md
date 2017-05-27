@@ -1,8 +1,11 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Yeoman MEAN stack tech-talk'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+I gave a tech talk of *Scaffold a Fullstack Webapp in Yeoman* for the MEAN stack.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+Slides [heroku](http://angular-fullstack-slides.herokuapp.com/#1), [source](https://github.com/jeffhongxiao/angular-fullstack-slides/tree/heroku)
+
+
+{% include image.html url="http://angular-fullstack-slides.herokuapp.com/#1" image="projects/proj-2/techtalk.png" %}
