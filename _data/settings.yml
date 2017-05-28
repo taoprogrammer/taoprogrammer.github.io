@@ -7,7 +7,7 @@ email: taoprogrammer@outlook.com
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'blog.html'}
+#- {name: 'Blog', url: 'blog.html'}
 - {name: 'About', url: 'about.html'}
 #- {name: 'Contact', url: 'contact.html'}
 
@@ -39,9 +39,10 @@ about: >
 
   This is a personal blog about me, (Jeff) Hong Xiao.
   Here you can find my past and current [projects](/),
-  and the blog [posts](/blog.html) I wrote now and then.
 
-  You may contact me [through my email](mailto:taoprogrammer@outlook.com)
+
+  You may contact me [through my email](mailto:taoprogrammer@outlook.com),
+  [linkedin](https://www.linkedin.com/in/jeffhongxiao/),
   and [github page](http://taoprogrammer.github.io).
 
 contact: >
