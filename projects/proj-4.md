@@ -1,8 +1,22 @@
 ---
 layout: post
-title: 'Project Four'
+title: 'Social Hub for Radian6 / Salesforce'
 ---
 
-In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula.
+Social Hub is a rules engine with both front end and back end.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
+Javascript for the frontend, and Java for the backend.
+
+Libraries include:
+* **Spring** framework:
+  * **Spring-MVC**
+  * **Spring-Security**
+  * **Spring-Integration**
+* **Freemarker** and **JSP**
+
+and
+* **JQuery** and **JQuery-UI**
+
+
+{% include image.html url="https://rules.radian6.com/" image="projects/proj-4/socialhub.png" %}
+{% include image.html url="https://youtu.be/H56hqEqqZlM?t=80" image="projects/proj-4/youtube.png" %}
