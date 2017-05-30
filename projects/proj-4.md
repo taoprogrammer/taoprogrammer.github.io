@@ -18,5 +18,6 @@ and
 * **JQuery** and **JQuery-UI**
 
 
-{% include image.html url="https://rules.radian6.com/" image="projects/proj-4/socialhub.png" %}
+{% include image.html url="https://rules.radian6.com/" image="projects/proj-4/socialhub_0.png" %}
+{% include image.html url="https://rules.radian6.com/" image="projects/proj-4/socialhub_1.png" %}
 {% include image.html url="https://youtu.be/H56hqEqqZlM?t=80" image="projects/proj-4/youtube.png" %}
