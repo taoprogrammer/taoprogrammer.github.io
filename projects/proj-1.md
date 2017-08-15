@@ -17,5 +17,6 @@ and
 
 Package management is **bower**.
 
-{% include image.html image="projects/proj-1/dashboard_20170602.png" %}
-{% include image.html image="projects/proj-1/Dashboard_20170510.png" %}
+{% include image.html image="projects/proj-1/Dashboard_2017-06-28.png" %}
+{% include image.html image="projects/proj-1/Configuration_Mitigation_warning_20170804.png" %}
+{% include image.html image="projects/proj-1/Configuration_20170726.png" %}
