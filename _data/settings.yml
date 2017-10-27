@@ -56,7 +56,7 @@ projects:
 - {name: 'Social Hub', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'Code Contest Cruncher', folder: 'proj-5', file: 'projects/proj-5.html'}
 - {name: 'Fullstack tech-talk', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'OMID', folder: 'proj-3', file: 'projects/proj-3.html'}
+###- {name: 'OMID', folder: 'proj-3', file: 'projects/proj-3.html'}
 
 #-------------------------------
 # Contact Section
