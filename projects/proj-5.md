@@ -1,8 +1,23 @@
 ---
 layout: post
-title: 'Project Five'
+title: 'Code Contest Cruncher Submitter'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+This is the submitter of a collection of code contest challenges.
+A submitted challenges becomes a gist [here](https://gist.github.com/code-contest-cruncher).
+The libraries used include:
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-5/gun-pants.jpg" %}
+* **express** (web server)
+* **express-validator"** (validation)
+* **moment** (gist is named after the time it gets submitted)
+* **pug** (view)
+* **sha1** (security the secret)
+* **bootstrap** (layout)
+
+Also use **mongoose** for the model.
+
+Package manager is `npm`
+
+{% include image.html url="http://code-contest-cruncher.herokuapp.com" image="projects/proj-5/ccc-submitter-form.png" %}
+{% include image.html url="http://code-contest-cruncher.herokuapp.com" image="projects/proj-5/ccc-submitter-invalid-email.png" %}
+{% include image.html url="http://code-contest-cruncher.herokuapp.com" image="projects/proj-5/ccc-submitter-error.png" %}
