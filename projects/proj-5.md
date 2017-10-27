@@ -8,10 +8,10 @@ A submitted challenges becomes a gist [here](https://gist.github.com/code-contes
 The libraries used include:
 
 * **express** (web server)
-* **express-validator"** (validation)
+* **express-validator** (validation)
 * **moment** (gist is named after the time it gets submitted)
 * **pug** (view)
-* **sha1** (security the secret)
+* **sha1** (secure the secret)
 * **bootstrap** (layout)
 
 Also use **mongoose** for the model.
