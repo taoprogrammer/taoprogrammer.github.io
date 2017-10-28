@@ -10,8 +10,8 @@ The libraries used include:
 * **expo** (since this is an expo app)
 * **eslint** (linting)
 * **moment** (date/time)
-* **react** (react FTW)
-* **redux** (state)
+* **react** (react)
+* **redux** (state management)
 * **react-redux** (react binding for redux)
 * **react-navigation** (navigation)
 

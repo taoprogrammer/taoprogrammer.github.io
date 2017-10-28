@@ -4,7 +4,7 @@ title: 'Code Contest Cruncher Submitter'
 ---
 
 This is the submitter of a collection of code contest challenges.
-A submitted challenges becomes a gist [here](https://gist.github.com/code-contest-cruncher).
+A submitted challenge becomes a gist [here](https://gist.github.com/code-contest-cruncher).
 The libraries used include:
 
 * **express** (web server)

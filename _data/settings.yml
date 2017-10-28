@@ -37,7 +37,7 @@ seo:
 about: >
   # About Me
 
-  This is a personal blog about me, (Jeff) Hong Xiao.
+  This is a project portfolio of me, (Jeff) Hong Xiao.
   Here you can find my past and current [projects](/),
 
 
@@ -54,10 +54,11 @@ contact: >
 projects:
 - {name: 'Dashboard', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Social Hub', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'React Native Currency Converter', folder: 'proj-6', file: 'projects/proj-6.html'}
+- {name: 'React Play Nine', folder: 'proj-7', file: 'projects/proj-7.html'}
 - {name: 'Code Contest Cruncher', folder: 'proj-5', file: 'projects/proj-5.html'}
 - {name: 'Fullstack tech-talk', folder: 'proj-2', file: 'projects/proj-2.html'}
 ###- {name: 'OMID', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'React Native Currency Converter', folder: 'proj-6', file: 'projects/proj-6.html'}
 
 #-------------------------------
 # Contact Section
