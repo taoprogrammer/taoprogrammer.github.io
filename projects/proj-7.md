@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'React Native Currency Converter'
+title: 'React Play Nine'
 ---
 
 This is my final [project](https://github.com/jeffhongxiao/react-get-started) from a React [course](https://www.pluralsight.com/courses/react-js-getting-started).
